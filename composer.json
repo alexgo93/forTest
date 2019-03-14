@@ -1,0 +1,9 @@
+{
+    "name": "alexgo93/for-test-projects",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "alexgo93/brackets_balance_check": "^1.0"
+    }
+}
